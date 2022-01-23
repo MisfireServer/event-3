@@ -1,0 +1,1 @@
+schedule clear e3:facing_test
